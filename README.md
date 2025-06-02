@@ -12,3 +12,4 @@ This repo is me learning Typst
 ## Programs 
 
 1. [Introduction](./intro/intro.typ)
+2. [Headings and Text formatting](./headings/headings.typ)
