@@ -15,3 +15,4 @@ This repo is me learning Typst
 2. [Headings and Text formatting](./headings/headings.typ)
 3. [Bullet Points](./bullet_points/bullet_points.typ)
 4. [Figures](./adding_figures/figures.md)
+5. [Bibliography](./bibliography/bibliography.typ)
