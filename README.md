@@ -14,3 +14,4 @@ This repo is me learning Typst
 1. [Introduction](./intro/intro.typ)
 2. [Headings and Text formatting](./headings/headings.typ)
 3. [Bullet Points](./bullet_points/bullet_points.typ)
+4. [Figures](./adding_figures/figures.typ)
