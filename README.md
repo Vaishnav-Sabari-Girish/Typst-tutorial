@@ -17,3 +17,4 @@ This repo is me learning Typst
 4. [Figures](./adding_figures/figures.md)
 5. [Bibliography](./bibliography/bibliography.typ)
 6. [Maths](./maths/maths.typ)
+7. [Rules](./rules/rules.typ)
