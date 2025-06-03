@@ -9,3 +9,5 @@ $Q = rho A v + C$
 $R = rho L/A$
 
 $7.32 beta + sum_(i = 0)^infinity (Q_i (a_i - epsilon))/2$
+
+$a arrow.squiggly b$
