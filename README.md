@@ -18,3 +18,4 @@ This repo is me learning Typst
 5. [Bibliography](./bibliography/bibliography.typ)
 6. [Maths](./maths/maths.typ)
 7. [Rules](./rules/rules.typ)
+8. [Functions](./functions/functions.typ)
